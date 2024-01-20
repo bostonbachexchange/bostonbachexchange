@@ -22,7 +22,6 @@ I'm open to collaboration on:
 
 - Open source projects.
 - Innovative web development ideas.
-- Anything that involves .
 
 ## 🤔 Looking for Help With
 
@@ -36,9 +35,9 @@ I'm seeking assistance with:
 
 Feel free to reach out if you want to discuss:
 
-- [Your specific areas of expertise].
-- My experiences in [industry/domain].
-- Anything related to [something you're passionate about].
+- D3, Data Visualization and React.
+- My experiences in a coding bootcamp.
+- Anything related to music and piano!
 
 ## 📫 How to Reach Me
 
@@ -52,7 +51,7 @@ Let's connect and share ideas!
 
 ## 😄 Pronouns
 
-I go by He/Him/HIs, and I'm happy to be addressed using any pronouns.
+I go by He/Him/His, and I'm happy to be addressed using any pronouns.
 
 ## ⚡ Fun Fact
 
