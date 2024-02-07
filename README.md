@@ -28,7 +28,7 @@ I'm open to collaboration on:
 I'm seeking assistance with:
 
 - Improving my JavaScript and Algorithms chops.
-- Understanding Data Visualization.
+- Data Visualization.
 - Any tips or tricks related to React.
 
 ## 💬 Ask Me About
