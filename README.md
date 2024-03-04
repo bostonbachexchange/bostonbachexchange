@@ -14,6 +14,7 @@ I'm currently immersed in:
 I'm always thirsty for knowledge! Right now, I'm learning:
 
 - D3.
+- Data Analysis, Pandas, GeoPandas
 - React, React Native.
 
 ## 👯 Looking to Collaborate On
